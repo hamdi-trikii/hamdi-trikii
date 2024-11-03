@@ -1,6 +1,7 @@
 <h1 align="left">hey there 👋</h1>
 
 ###
+<h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">My name is Hamdi, and I am a Big Data & Data Analysis student at ISIMS. I am eager to apply my knowledge in real-world scenarios while continuously enhancing my skills in machine learning and data science. Currently, I am dedicated to absorbing everything related to these fields and exploring new technologies to solve real-life problems. 🚀</p>
 
@@ -21,13 +22,7 @@
   </a>
 </div>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Currently,I am diving deeper into advanced machine learning techniques and exploring cloud platforms for data processing and storage🔍💡</p>
 
 ###
 
