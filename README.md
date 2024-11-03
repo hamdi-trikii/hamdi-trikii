@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hamdi. and I am a Big Data student at ISIMS and a Front-End Developer. 🚀</p>
+<p align="left">My name is Hamdi, and I am a Big Data & Data Analysis student at ISIMS, and I am eager to apply my knowledge in real-world scenarios while continuously enhancing my skills in data science and machine learning. 🚀</p>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Currently, my mind is dedicated to absorbing everything related to web development. I am also passionate about exploring new technologies that I can leverage to solve real-life problems. 🔍💡</p>
+<p align="left">Currently, my mind is dedicated to absorbing everything related to Machine Learning & Data Science. I am also passionate about exploring new technologies that I can leverage to solve real-life problems. 🔍💡</p>
 
 ###
 
