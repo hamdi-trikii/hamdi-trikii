@@ -10,6 +10,8 @@ I build pretty much any kind of software with AI: agents and MCP servers, backen
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=hamdi-trikii&theme=github-dark-blue&hide_border=true&background=0d1117" height="165" alt="GitHub streak" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hamdi-trikii&theme=github-dark-blue&hide_border=true&background=0d1117" width="70%" alt="GitHub streak" />
+</p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamdi-trikii&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&hide_title=true" width="100%" alt="Contribution graph" />
