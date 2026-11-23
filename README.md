@@ -1,35 +1,15 @@
-<h1 align="left">hey there 👋</h1>
+### hey, i'm hamdi
 
-###
-<h3 align="left">👩‍💻  About Me</h3>
+AI engineer from Sfax, Tunisia. I studied Big Data and Data Analysis at ISIMS, did a year of a research master's in computer science, then moved into industry, where I build LLM agents at VirtualDev.
 
-<p align="left">My name is Hamdi, and I am a Big Data & Data Analysis student at ISIMS. I am eager to apply my knowledge in real-world scenarios while continuously enhancing my skills in machine learning and data science. Currently, I am dedicated to absorbing everything related to these fields and exploring new technologies to solve real-life problems. 🚀</p>
+I build pretty much any kind of software with AI: agents and MCP servers, backends and APIs, web apps, desktop and voice apps, automations, data pipelines. AI writes a lot of the code. My job is knowing why it works, catching it when it doesn't, and shipping something that holds up.
 
-###
+<br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/hamdi-triki-028409263/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="+21655109208" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100009823366867" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/hamdi.trikii/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+<img src="https://skillicons.dev/icons?i=py,ts,nodejs,react,nextjs,fastapi,postgres,redis,docker,gcp,linux,git&perline=12" height="36" alt="Python, TypeScript, Node.js, React, Next.js, FastAPI, PostgreSQL, Redis, Docker, GCP, Linux, Git" />
 
+<br>
 
-###
+<img src="https://streak-stats.demolab.com?user=hamdi-trikii&theme=github-dark-blue&hide_border=true&background=0d1117" height="165" alt="GitHub streak" />
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hamdi-trikii&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamdi-trikii&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&hide_title=true" width="100%" alt="Contribution graph" />
