@@ -1,6 +1,6 @@
 # hey, i'm hamdi
 
-AI engineer from Sfax, Tunisia. I studied Big Data and Data Analysis at ISIMS, did a year of a research master's in computer science, then moved into industry, where I build LLM agents at VirtualDev.
+#### AI engineer from Sfax, Tunisia. I studied Big Data and Data Analysis at ISIMS, did a year of a research master's in computer science, then moved into industry, where I build LLM agents at VirtualDev.
 
 I build pretty much any kind of software with AI: agents and MCP servers, backends and APIs, web apps, desktop and voice apps, automations, data pipelines. AI writes a lot of the code. My job is knowing why it works, catching it when it doesn't, and shipping something that holds up.
 
